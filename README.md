@@ -10,7 +10,7 @@ configuration and options and the data that needs to be submitted at various sta
 the procurement process.
 
 This page and the benchmark descriptions will be maintained and updated throughout the
-procurement process. Updates will be recorded in the [CHANGELOG](CHANGELOG).
+procurement process. Updates will be recorded in the [CHANGELOG](CHANGELOG.md).
 
 ## Application Benchmarks
 
