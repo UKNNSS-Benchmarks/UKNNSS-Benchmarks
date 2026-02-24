@@ -15,7 +15,7 @@ procurement process. Updates will be recorded in the [CHANGELOG](CHANGELOG.md).
 ## Application Benchmarks
 
 The application benchmarks have been chosen to exercise a range of system requirements
-and technical charateristics in areas of key importance to the UK research community.
+and technical characteristics in areas of key importance to the UK research community.
 
 - [CP2K](https://github.com/UKNNSS-Benchmarks/uknnss-benchmark-cp2k)
 - DOLFINx
