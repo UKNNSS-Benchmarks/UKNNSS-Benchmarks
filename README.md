@@ -5,7 +5,7 @@ the UK NNSS procurement process.
 
 The benchmarks will play a key role in the procurement process and span full application 
 benchmarks to synthetic micro-benchmarks. Please ensure you read the benchmark descriptions
-carefully to understand the rules around source code modification, madatory runtime 
+carefully to understand the rules around source code modification, mandatory runtime 
 configuration and options and the data that needs to be submitted at various stages in 
 the procurement process.
 
@@ -33,7 +33,7 @@ the procurement on a range of different metrics and IO patterns.
 
 ## Synthetic Micro-benchmarks
 
-The synthetic micro-benchmarks are a set of simple to build an execute tests that
+The synthetic micro-benchmarks are a set of simple to build and execute tests that
 compare key technical features of the systems in a consistent way. See the individual
 test descriptions for detail on the requirements.
 
