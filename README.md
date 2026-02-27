@@ -18,7 +18,7 @@ The application benchmarks have been chosen to exercise a range of system requir
 and technical characteristics in areas of key importance to the UK research community.
 
 - [CP2K](https://github.com/UKNNSS-Benchmarks/uknnss-benchmark-cp2k)
-- DOLFINx
+- [DOLFINx](https://github.com/UKNNSS-Benchmarks/uknnss-benchmark-dolfinx)
 - [Grid](https://github.com/UKNNSS-Benchmarks/uknnss-benchmark-grid)
 - [LAMMPS](https://github.com/UKNNSS-Benchmarks/uknnss-benchmark-lammps)
 
